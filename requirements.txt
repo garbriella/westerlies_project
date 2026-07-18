@@ -1,0 +1,12 @@
+streamlit>=1.51,<2
+pandas>=2.2,<3
+numpy>=1.26,<3
+requests>=2.32,<3
+plotly>=5.24,<7
+scipy>=1.13,<2
+metpy>=1.6,<2
+pint>=0.24,<1
+xarray>=2024.6,<2027
+netCDF4>=1.7,<2
+cftime>=1.6,<2
+pytest>=8.2,<10

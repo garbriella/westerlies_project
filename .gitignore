@@ -194,6 +194,19 @@ cython_debug/
 #   Learn more at https://abstra.io/docs
 .abstra/
 
+# WesterlyScope local and NOAA data caches
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+.env
+*.pyc
+data_cache/
+*.nc
+*.zip
+*.csv
+!sample_templates/*.csv
+
 # Visual Studio Code
 #   Visual Studio Code specific template is maintained in a separate VisualStudioCode.gitignore 
 #   that can be found at https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
